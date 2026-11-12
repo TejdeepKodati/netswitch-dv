@@ -1,0 +1,97 @@
+{
+  "total_runs": 8,
+  "total_passed": 8,
+  "total_failed": 0,
+  "total_packets_verified": 40000,
+  "mean_coverage": 97.06,
+  "results": [
+    {
+      "seed": 42,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 61.73,
+      "passed": true
+    },
+    {
+      "seed": 101,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 58.54,
+      "passed": true
+    },
+    {
+      "seed": 202,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 61.18,
+      "passed": true
+    },
+    {
+      "seed": 303,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 57.56,
+      "passed": true
+    },
+    {
+      "seed": 404,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 61.8,
+      "passed": true
+    },
+    {
+      "seed": 505,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 57.99,
+      "passed": true
+    },
+    {
+      "seed": 777,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 77.54,
+      "passed": true
+    },
+    {
+      "seed": 999,
+      "packets": 5000,
+      "matched": 5000,
+      "mismatches": 0,
+      "crc_errors": 0,
+      "dropped": 0,
+      "coverage": 97.06,
+      "avg_latency": 60.88,
+      "passed": true
+    }
+  ]
+}
